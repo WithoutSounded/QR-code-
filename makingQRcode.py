@@ -9,5 +9,5 @@ for ID in studentID:
     img = qrcode.make(ID)
     img.save("D:\\Software\\APP\\QR code sign in\\"+ID[:9]+".png")
     
-    
+# ID:410521231\nName:張維  \nSubject:資工三  以上為QR Code 的儲存格式 ID為9 Name為4 Subject為3 的長度(app inventor2 不論實際儲存大小)
     
